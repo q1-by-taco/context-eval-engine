@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "Production-Grade Context Engineering Engine, MCP Server & Evidence-First Evaluation Harness for Frontier LLMs"
 readme = "README.md"
 authors = [
-  { name = "Marcio Krefta", email = "kreftamarcio1@gmail.com" }
+  { name = "Marcio Krefta", email = "compliance@q1taco.com" }
 ]
 license = { text = "MIT" }
 classifiers = [
