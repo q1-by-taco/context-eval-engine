@@ -3,13 +3,13 @@
 <div align="center">
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Model Context Protocol](https://img.shields.io/badge/Protocol-MCP%20JSON--RPC%202.0-blueviolet?style=for-the-badge&logo=anthropic)](https://modelcontextprotocol.io)
+[![Model Context Protocol](https://img.shields.io/badge/Protocol-MCP%20JSON--RPC%202.0-blueviolet?style=for-the-badge&)](https://modelcontextprotocol.io)
 [![CI Pipeline](https://img.shields.io/badge/CI-Passing%20(100%25%20Tests)-brightgreen?style=for-the-badge&logo=githubactions)](https://github.com/q1-by-taco/context-eval-engine/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Organization](https://img.shields.io/badge/Organization-Q1%20by%20TACO-blue?style=for-the-badge&logo=github)](https://github.com/q1-by-taco)
 
 <p align="center">
-  <b>Production-grade context optimization engine, Model Context Protocol (MCP) server, and Evidence-First assertion verification suite for frontier LLMs (Gemini Pro, Claude 3.5, GPT-4o, DeepSeek-R1).</b>
+  <b>Production-grade context optimization engine, Model Context Protocol (MCP) server, and Evidence-First assertion verification suite for frontier LLMs modern language models and autonomous runtime engines.</b>
 </p>
 
 </div>
@@ -64,7 +64,7 @@ pytest tests/ -v
 python benchmarks/run_benchmarks.py
 ```
 
-### 3. Register as an MCP Server in Claude Desktop / Google Antigravity
+### 3. Register as an MCP Server in MCP-Compatible Client Environments
 Add the following configuration to your `mcp_config.json`:
 
 ```json
